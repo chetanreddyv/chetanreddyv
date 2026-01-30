@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chetanreddyv
-- 👀 I’m interested in AI, Data Science, Software development.
-- 🌱 I’m pursuing Masters in Data Science at Rutgers University.
+- 👀 Full Stack AI Engineer
+- 🌱 Masters in Data Science at Rutgers University.
 - 📫 How to reach me - valluruchetanreddy@gmail.com 
 
 <!---
